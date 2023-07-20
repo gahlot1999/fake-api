@@ -4,6 +4,7 @@
       "id": "1",
       "name": "Electronics",
       "description": "Explore the latest gadgets and electronics.",
+      "avatar": "https://robohash.org/autasperioresdolor.png?size=300x300&set=set1",
       "items": [
         {
           "id": "101",
@@ -29,6 +30,7 @@
       "id": "2",
       "name": "Clothing",
       "description": "Discover the latest fashion trends.",
+      "avatar": "https://robohash.org/nemodoloremofficiis.png?size=300x300&set=set1",
       "items": [
         {
           "id": "201",
@@ -54,6 +56,7 @@
       "id": "3",
       "name": "Furniture",
       "description": "Furnish your home with modern furniture.",
+      "avatar": "https://robohash.org/atnisiexercitationem.png?size=300x300&set=set1",
       "items": [
         {
           "id": "301",
@@ -79,6 +82,7 @@
       "id": "4",
       "name": "Books",
       "description": "Discover new worlds through books.",
+      "avatar": "https://robohash.org/eumfugitdicta.png?size=300x300&set=set1",
       "items": [
         {
           "id": "401",
@@ -104,6 +108,7 @@
       "id": "5",
       "name": "Toys",
       "description": "Fun and educational toys for kids.",
+      "avatar": "https://robohash.org/eumetfugit.png?size=300x300&set=set1",
       "items": [
         {
           "id": "501",
