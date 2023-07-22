@@ -1,7 +1,5 @@
-[
-  {
-    "id": "1",
-    "name": "Electronics",
-    "description": "Explore the latest gadgets and electronics.",
-  }
-]
+{
+  "id": "1",
+  "name": "Electronics",
+  "description": "Explore the latest gadgets and electronics."
+}
