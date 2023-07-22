@@ -1,134 +1,132 @@
-{
-  "categories": [
-    {
-      "id": "1",
-      "name": "Electronics",
-      "description": "Explore the latest gadgets and electronics.",
-      "avatar": "https://robohash.org/autasperioresdolor.png?size=300x300&set=set1",
-      "items": [
-        {
-          "id": "101",
-          "name": "Smartphone",
-          "description": "A high-end smartphone with advanced features.",
-          "price": "$500"
-        },
-        {
-          "id": "102",
-          "name": "Laptop",
-          "description": "A powerful laptop for both work and play.",
-          "price": "$1000"
-        },
-        {
-          "id": "103",
-          "name": "Smartwatch",
-          "description": "A smartwatch with fitness tracking capabilities.",
-          "price": "$200"
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "name": "Clothing",
-      "description": "Discover the latest fashion trends.",
-      "avatar": "https://robohash.org/nemodoloremofficiis.png?size=300x300&set=set1",
-      "items": [
-        {
-          "id": "201",
-          "name": "T-Shirt",
-          "description": "A comfortable and stylish T-shirt.",
-          "price": "$20"
-        },
-        {
-          "id": "202",
-          "name": "Jeans",
-          "description": "Classic denim jeans for all occasions.",
-          "price": "$50"
-        },
-        {
-          "id": "203",
-          "name": "Dress",
-          "description": "Elegant dress for special occasions.",
-          "price": "$80"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "name": "Furniture",
-      "description": "Furnish your home with modern furniture.",
-      "avatar": "https://robohash.org/atnisiexercitationem.png?size=300x300&set=set1",
-      "items": [
-        {
-          "id": "301",
-          "name": "Sofa",
-          "description": "Comfortable sofa for your living room.",
-          "price": "$800"
-        },
-        {
-          "id": "302",
-          "name": "Dining Table",
-          "description": "Stylish dining table for family gatherings.",
-          "price": "$400"
-        },
-        {
-          "id": "303",
-          "name": "Bed",
-          "description": "Cozy bed for a good night's sleep.",
-          "price": "$600"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "name": "Books",
-      "description": "Discover new worlds through books.",
-      "avatar": "https://robohash.org/eumfugitdicta.png?size=300x300&set=set1",
-      "items": [
-        {
-          "id": "401",
-          "name": "Fiction",
-          "description": "Immerse yourself in captivating stories.",
-          "price": "$15"
-        },
-        {
-          "id": "402",
-          "name": "Non-Fiction",
-          "description": "Expand your knowledge with informative books.",
-          "price": "$25"
-        },
-        {
-          "id": "403",
-          "name": "Children's Books",
-          "description": "Spark your child's imagination with enchanting tales.",
-          "price": "$10"
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "name": "Toys",
-      "description": "Fun and educational toys for kids.",
-      "avatar": "https://robohash.org/eumetfugit.png?size=300x300&set=set1",
-      "items": [
-        {
-          "id": "501",
-          "name": "Building Blocks",
-          "description": "Develop creativity and motor skills with building blocks.",
-          "price": "$30"
-        },
-        {
-          "id": "502",
-          "name": "Puzzle Games",
-          "description": "Challenge the mind with engaging puzzle games.",
-          "price": "$20"
-        },
-        {
-          "id": "503",
-          "name": "Art Supplies",
-          "description": "Inspire artistic expression with art supplies.",
-          "price": "$15"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "name": "Electronics",
+    "description": "Explore the latest gadgets and electronics.",
+    "avatar": "https://robohash.org/autasperioresdolor.png?size=300x300&set=set1",
+    "items": [
+      {
+        "id": "101",
+        "name": "Smartphone",
+        "description": "A high-end smartphone with advanced features.",
+        "price": "$500"
+      },
+      {
+        "id": "102",
+        "name": "Laptop",
+        "description": "A powerful laptop for both work and play.",
+        "price": "$1000"
+      },
+      {
+        "id": "103",
+        "name": "Smartwatch",
+        "description": "A smartwatch with fitness tracking capabilities.",
+        "price": "$200"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Clothing",
+    "description": "Discover the latest fashion trends.",
+    "avatar": "https://robohash.org/nemodoloremofficiis.png?size=300x300&set=set1",
+    "items": [
+      {
+        "id": "201",
+        "name": "T-Shirt",
+        "description": "A comfortable and stylish T-shirt.",
+        "price": "$20"
+      },
+      {
+        "id": "202",
+        "name": "Jeans",
+        "description": "Classic denim jeans for all occasions.",
+        "price": "$50"
+      },
+      {
+        "id": "203",
+        "name": "Dress",
+        "description": "Elegant dress for special occasions.",
+        "price": "$80"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Furniture",
+    "description": "Furnish your home with modern furniture.",
+    "avatar": "https://robohash.org/atnisiexercitationem.png?size=300x300&set=set1",
+    "items": [
+      {
+        "id": "301",
+        "name": "Sofa",
+        "description": "Comfortable sofa for your living room.",
+        "price": "$800"
+      },
+      {
+        "id": "302",
+        "name": "Dining Table",
+        "description": "Stylish dining table for family gatherings.",
+        "price": "$400"
+      },
+      {
+        "id": "303",
+        "name": "Bed",
+        "description": "Cozy bed for a good night's sleep.",
+        "price": "$600"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Books",
+    "description": "Discover new worlds through books.",
+    "avatar": "https://robohash.org/eumfugitdicta.png?size=300x300&set=set1",
+    "items": [
+      {
+        "id": "401",
+        "name": "Fiction",
+        "description": "Immerse yourself in captivating stories.",
+        "price": "$15"
+      },
+      {
+        "id": "402",
+        "name": "Non-Fiction",
+        "description": "Expand your knowledge with informative books.",
+        "price": "$25"
+      },
+      {
+        "id": "403",
+        "name": "Children's Books",
+        "description": "Spark your child's imagination with enchanting tales.",
+        "price": "$10"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Toys",
+    "description": "Fun and educational toys for kids.",
+    "avatar": "https://robohash.org/eumetfugit.png?size=300x300&set=set1",
+    "items": [
+      {
+        "id": "501",
+        "name": "Building Blocks",
+        "description": "Develop creativity and motor skills with building blocks.",
+        "price": "$30"
+      },
+      {
+        "id": "502",
+        "name": "Puzzle Games",
+        "description": "Challenge the mind with engaging puzzle games.",
+        "price": "$20"
+      },
+      {
+        "id": "503",
+        "name": "Art Supplies",
+        "description": "Inspire artistic expression with art supplies.",
+        "price": "$15"
+      }
+    ]
+  }
+]
